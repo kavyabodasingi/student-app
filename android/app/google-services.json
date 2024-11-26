@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080314081562",
+    "project_id": "student-ff32f",
+    "storage_bucket": "student-ff32f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080314081562:android:a3761514ac9cc3e7e9fca3",
+        "android_client_info": {
+          "package_name": "com.example.student_attendance_management_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYCIdIzRfIpNpoZV1GB3M2xMKp3L3bShw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
